@@ -1,11 +1,4 @@
 <!-- Credits to Enji Kusnadi for inspiration - https://github.com/enjidev -->
-
-<a href="#">
-  <picture>
-    <img alt="Jesus Eduardo Coca — Low Level Software Engineer" src="./header-light.svg" width="100%" />
-  </picture>
-</a>
-
 <header>
   <div align="center">
     <!--<a href="https://erich-n.com"><img alt="Portfolio" src="https://img.shields.io/badge/%E2%80%8B-Portfolio-6687ff?style=flat&logo=reverbnation&logoColor=white"></a>-->
