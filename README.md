@@ -8,9 +8,9 @@
     <a href="https://github.com/shakkar23"><img alt="My GitHub Profile" src="https://img.shields.io/badge/GitHub-shakkar23-6687ff?style=flat&logo=github&logoColor=white"></a>
   </div>
 
-  ### <center>👋 Hey, I'm Jesus Eduardo Coca</center>
-  Growing up, my creative mind had always enjoyed making things and learning about technology—that meant programming was the perfect opportunity to combine the two. I’ve been doing embedded development since 2019; I constantly think about efficient and modular ways to write unique code.
-  <h3>🔧 Tools I use</h3>
+  ### <center>Hey, I'm Jesus Eduardo Coca 😎</center>
+  Growing up, my creative mind had always enjoyed making things and learning about technology, that meant programming was the perfect opportunity to combine the two. I’ve been doing embedded development since 2019; I constantly think about efficient and modular ways to write unique code.
+  <h3>Tools I use</h3>
   <div align="center">
     <a target='_blank' rel='noopener noreferrer' href='https://code.visualstudio.com/'><img title="VS Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/></a>
     <a target='_blank' rel='noopener noreferrer' href='https://git-scm.com/'><img title="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/></a>
@@ -29,14 +29,14 @@
     <a target='_blank' rel='noopener noreferrer' href='https://www.w3schools.com/css/'><img title="CSS3" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/></a>
     <a target='_blank' rel='noopener noreferrer' href='https://www.blender.org/'><img title="Blender" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg"/></a>
   </div>
-  <h3>📫 Contact Me</h3>
+  <h3>Contact Me</h3>
   <a href="mailto:mail@JesusC.com">shakkar23@gmail.com</a>
 </header>
 
 <br/>
 
 <details>
-  <summary>📊 <b>Stats<b></summary>
+  <summary><b>Stats<b></summary>
   <div>
     <br/>
     <div>
