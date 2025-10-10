@@ -28,7 +28,7 @@
     <a target='_blank' rel='noopener noreferrer' href='https://www.w3schools.com/html/'><img title="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/></a>
     <a target='_blank' rel='noopener noreferrer' href='https://www.w3schools.com/css/'><img title="CSS3" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/></a>
     <a target='_blank' rel='noopener noreferrer' href='https://www.blender.org/'><img title="Blender" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg"/></a>
-    <a target='_blank' rel='noopener noreferrer' href='https://ghidra-sre.org/'><img title="Ghidra" width="32px" src="./ghidra.svg"/></a>
+    <a target='_blank' rel='noopener noreferrer' href='https://ghidra-sre.org/'><img title="Ghidra" width="32px" src="./ghidra.png"/></a>
   
   </div>
   <h3>Contact Me</h3>
