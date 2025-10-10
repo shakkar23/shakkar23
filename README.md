@@ -28,6 +28,8 @@
     <a target='_blank' rel='noopener noreferrer' href='https://www.w3schools.com/html/'><img title="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/></a>
     <a target='_blank' rel='noopener noreferrer' href='https://www.w3schools.com/css/'><img title="CSS3" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/></a>
     <a target='_blank' rel='noopener noreferrer' href='https://www.blender.org/'><img title="Blender" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg"/></a>
+    <a target='_blank' rel='noopener noreferrer' href='https://ghidra-sre.org/'><img title="Ghidra" width="32px" src="./ghidra.svg"/></a>
+  
   </div>
   <h3>Contact Me</h3>
   <a href="mailto:mail@JesusC.com">shakkar23@gmail.com</a>
@@ -36,7 +38,8 @@
 <br/>
 
 <details>
-  <summary><b>Stats<b></summary>
+  <h3>Hobbies: Modern C++, Reverse Engineering with ghidra, Tetris client development, Tetris bot development, increasing performance in my code</h3>
+  <summary><b>More!<b></summary>
   <div>
     <br/>
     <div>
